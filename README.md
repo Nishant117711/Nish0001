@@ -1,2 +1,2 @@
 # Nish0001
-This is a Github repo.
+This is a GitHub repository
